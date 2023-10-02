@@ -53,7 +53,8 @@ span {
 .banner {
     position: relative;
     margin-top: 80px;
-    background-color: #0082e6;
+    /* background-color: #0082e6; */
+    background-color: #5490be;
 
 }
 
